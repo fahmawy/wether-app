@@ -17,7 +17,13 @@ Application show you the weather status based on zip-code of the city  and you c
 
 i used nodemon to make any changes reflected to my sever in the same time and i made customization for the background (webiste) and ui as much as i can and i used some refrences like 
 
+in front-end i used bootstrab to try to made it responsive as much as i can 
+
+
+
 # Refrences
+
+https://getbootstrap.com/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
